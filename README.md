@@ -1,4 +1,4 @@
-# PriceCard Front-end Project
+# Price Card Front-end Project
 
 ## Table of contents
 
