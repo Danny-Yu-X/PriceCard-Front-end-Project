@@ -1,4 +1,4 @@
-# Single Price Grid Component Project
+# PriceCard Front-end Project
 
 ## Table of contents
 
